@@ -1,4 +1,4 @@
-input = int(input('Enter any number: '))
+input = 3
 if input % 2 == 0:
     print(input, "Even")
 else:
